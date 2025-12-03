@@ -1,6 +1,6 @@
 # Web Scraping Countries — Python Project
 
-Project ini adalah web scraping sederhana untuk mengambil data negara dari website **ScrapeThisSite**, lalu menyimpannya ke berbagai format data untuk keperluan analisis dan portofolio.
+Project ini adalah web scraping sederhana untuk mengambil data negara dari website **ScrapeThisSite**, lalu menyimpannya ke berbagai format data.
 
 ## Fitur Project
 
@@ -15,7 +15,7 @@ Project ini adalah web scraping sederhana untuk mengambil data negara dari websi
 
 ---
 
-## 🧠 Teknologi & Library
+##  Teknologi & Library
 
 - Python 3.x
 - Requests
